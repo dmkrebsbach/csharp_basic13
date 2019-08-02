@@ -1,0 +1,11 @@
+/home/dmkrebsbach/CodingDojo/CSharp/basic13/obj/Debug/netcoreapp2.2/basic13.csprojAssemblyReference.cache
+/home/dmkrebsbach/CodingDojo/CSharp/basic13/obj/Debug/netcoreapp2.2/basic13.csproj.CoreCompileInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/basic13/obj/Debug/netcoreapp2.2/basic13.AssemblyInfoInputs.cache
+/home/dmkrebsbach/CodingDojo/CSharp/basic13/obj/Debug/netcoreapp2.2/basic13.AssemblyInfo.cs
+/home/dmkrebsbach/CodingDojo/CSharp/basic13/bin/Debug/netcoreapp2.2/basic13.deps.json
+/home/dmkrebsbach/CodingDojo/CSharp/basic13/bin/Debug/netcoreapp2.2/basic13.runtimeconfig.json
+/home/dmkrebsbach/CodingDojo/CSharp/basic13/bin/Debug/netcoreapp2.2/basic13.runtimeconfig.dev.json
+/home/dmkrebsbach/CodingDojo/CSharp/basic13/bin/Debug/netcoreapp2.2/basic13.dll
+/home/dmkrebsbach/CodingDojo/CSharp/basic13/bin/Debug/netcoreapp2.2/basic13.pdb
+/home/dmkrebsbach/CodingDojo/CSharp/basic13/obj/Debug/netcoreapp2.2/basic13.dll
+/home/dmkrebsbach/CodingDojo/CSharp/basic13/obj/Debug/netcoreapp2.2/basic13.pdb
